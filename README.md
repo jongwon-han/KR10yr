@@ -1,2 +1,2 @@
 # KR10yr
-Data and resources for the journal paper (Han et al., 2023).
+Data and resources for the SRL paper (Han et al., in review).
