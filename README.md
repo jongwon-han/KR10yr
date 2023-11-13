@@ -1,5 +1,5 @@
 # KR10yr
-Data and resources for the journal paper (Han et al., in review).
+Data and resources for the journal paper (Han et al., accepted).
 
 * STEAD_KMA_model_v1.h5: The model file of re-trained deep learning picker (EQTransformer) using the STEAD and the Southern Korean Peninsula dataset.
 * magnitude_sta_cor.csv: The station correction terms for magnitude equation.
